@@ -1,0 +1,6 @@
+{
+  "name": "TG Gaming Owner",
+  "description": "Multiplayer 3-Color Gaming Arena with Red, Green, Blue prediction, live online players, instant PhonePe UPI deposit, withdrawal, and VIP Admin Control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
